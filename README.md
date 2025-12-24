@@ -5,7 +5,10 @@ myShop (formerly Mpesa Shop) is a robust, offline-first business management solu
 # Screenshots
 
 | Dashboard | Inventory | Reports |
-| (Place screenshot here) | (Place screenshot here) | (Place screenshot here) |
+| ![WhatsApp Image 2025-12-24 at 10 28 32 PM](https://github.com/user-attachments/assets/34532750-d09b-4346-ae49-eadde7a62015)
+ | ![WhatsApp Image 2025-12-24 at 10 29 12 PM](https://github.com/user-attachments/assets/41e52626-73c0-41cb-b4c2-0e24d684d69e)
+ | ![WhatsApp Image 2025-12-24 at 10 29 42 PM](https://github.com/user-attachments/assets/8c0e12de-be42-4179-8bad-2162dd6c6913)
+ |
 
 # Features
 
